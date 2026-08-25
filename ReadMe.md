@@ -6,14 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Applications;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Real+Products;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/naziran7">
-    <img src="https://img.shields.io/github/followers/naziran7?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/naziran7?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 ---
 
