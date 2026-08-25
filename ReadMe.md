@@ -152,8 +152,16 @@ I also build projects across:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naziran7&show_icons=true&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naziran7&layout=compact&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=naziran7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    height="180"
+    alt="Anish's GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naziran7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="180"
+    alt="Anish's Top Languages"
+  />
 </p>
 
 ---
@@ -161,7 +169,10 @@ I also build projects across:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naziran7&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=naziran7&theme=tokyonight&hide_border=true" 
+    alt="Anish's GitHub Streak"
+  />
 </p>
 
 ---
@@ -169,7 +180,10 @@ I also build projects across:
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naziran7/naziran7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img 
+    src="https://raw.githubusercontent.com/naziran7/naziran7/output/github-contribution-grid-snake-dark.svg" 
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
